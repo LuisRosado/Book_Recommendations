@@ -44,7 +44,11 @@ Este proyecto es un sistema de recomendación de libros que utiliza Flask como f
 
 3. Ingresa el título de un libro en la página principal y haz clic en "Obtener recomendaciones".
 
-4. Serás redirigido a una página que mostrará las recomendaciones de libros.
+![index](https://github.com/user-attachments/assets/3c977102-d16a-4515-83a5-67ea1de157f6)
+
+5. Serás redirigido a una página que mostrará las recomendaciones de libros.
+
+![recommendation](https://github.com/user-attachments/assets/6a96676f-9b08-460e-b989-cd50663678a6)
 
 ## Contribuciones
 
